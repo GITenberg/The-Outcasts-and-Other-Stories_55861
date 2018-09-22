@@ -1,5 +1,5 @@
 _repo: The-Outcasts-and-Other-Stories_55861
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Volkhovsky, Vera
@@ -11,6 +11,9 @@ contributor:
   - agent_name: Jakowleff, Emily
     gutenberg_agent_id: '48403'
     url: http://www.gutenberg.org/2009/agents/48403
+covers:
+- cover_type: archival
+  image_path: 55861-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55861#The-Outcasts-and-Other-Stories
 gutenberg_issued: '2017-10-31'
 gutenberg_type: Text
 identifiers:
