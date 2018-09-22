@@ -1,0 +1,44 @@
+_repo: The-Outcasts-and-Other-Stories_55861
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Volkhovsky, Vera
+    gutenberg_agent_id: '47679'
+    url: http://www.gutenberg.org/2009/agents/47679
+  - agent_name: Montefiore, Dora B.
+    gutenberg_agent_id: '48404'
+    url: http://www.gutenberg.org/2009/agents/48404
+  - agent_name: Jakowleff, Emily
+    gutenberg_agent_id: '48403'
+    url: http://www.gutenberg.org/2009/agents/48403
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    - Gorky, Maxim
+    - Gorky, Maxime
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2017-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: The outcasts -- Waiting for the ferry -- The affairs of the clasps.
+title: The Outcasts, and Other Stories
+url: http://www.gutenberg.org/ebooks/55861
